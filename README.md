@@ -5,4 +5,5 @@ The following code is used to maintain attendence records for a specific class.T
 
 ## Contributors
 - <a href="https://github.com/Aravindkrish25">Aravind M  </a>
+- <a href="https://github.com/Bhooshaan">Bhooshaan A  </a>
 - <a href="https://github.com/Hrithik1702">Hrithik B </a>
